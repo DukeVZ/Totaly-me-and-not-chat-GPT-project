@@ -12,7 +12,7 @@
 
 - [Luuk600](https://github.com/luuk600) (Fixed the fixed grammar problems)
 
-- [DeanLemans](https://github.com/DeanLemans) (Made the CODE_OF_CONDUCT.md, CONTRIBUTING.md, LICENSE.md, SECURITY.md, pull_request_template.md and made grammar fixes to the README.md)
+- [cheese](https://github.com/DeanLemans) (Made the CODE_OF_CONDUCT.md, CONTRIBUTING.md, LICENSE.md, SECURITY.md, pull_request_template.md and made grammar fixes to the README.md)
 
 ## License
 
