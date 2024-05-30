@@ -5,7 +5,7 @@
 
 ## Contributors:
 ### Main contributor
-[Duke](https://github.com/DukeVZ)
+[DukeVZ](https://github.com/DukeVZ)
 
 ### Secondary contributor:
 - [Sem-Del](https://github.com/Sem-Del) (did the layout of README.md)
