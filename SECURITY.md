@@ -8,7 +8,7 @@ Currently only the school version of the maze game is reported.
 | ------- | ------------------ |
 | School   | :white_check_mark: |
 
-## Reporting a Vulnerability
+### Reporting a Vulnerability
 
 Please report vulnerabilities to the issue page
 
