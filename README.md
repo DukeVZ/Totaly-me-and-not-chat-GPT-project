@@ -16,4 +16,4 @@
 
 ## License
 
-Totaly-me-and-not-chat-GPT-project is released under the [GPLv3 License]([https://opensource.org/licenses/MIT](https://www.gnu.org/licenses/gpl-3.0.html)).
+Totaly-me-and-not-chat-GPT-project is released under the [GPLv3 License](https://www.gnu.org/licenses/gpl-3.0.html).
