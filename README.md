@@ -8,8 +8,8 @@
 [Duke](https://github.com/DukeVZ)
 
 ### Secondary contributor:
-- [Sem](https://github.com/Sem-Del) (did the layout of README.md)
+- [Sem-Del](https://github.com/Sem-Del) (did the layout of README.md)
 
-- [Dean](https://github.com/DeanLemans) (Fixed some grammar problems)
+- [DeanLemans](https://github.com/DeanLemans) (Fixed some grammar problems)
 
-- [Nick](https://github.com/luuk600) (Fixed the fixed grammar problems)
+- [luuk600](https://github.com/luuk600) (Fixed the fixed grammar problems)
