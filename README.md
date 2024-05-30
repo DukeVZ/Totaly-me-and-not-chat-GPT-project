@@ -8,7 +8,7 @@
 [DukeVZ](https://github.com/DukeVZ) (Made the game)
 
 ### Secondary contributor:
-- [Sem-Del](https://github.com/Sem-Del) (did the layout of README.md)
+- [Sem-Del](https://github.com/Sem-Del) (Did the layout of README.md)
 
 - [DeanLemans](https://github.com/DeanLemans) (Fixed some grammar problems)
 
