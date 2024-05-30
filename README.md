@@ -14,9 +14,6 @@
 
 - [DeanLemans](https://github.com/DeanLemans) (Fixed some grammar problems)
 
-- [Sem-Del](https://github.com/Sem-Del) (did the layout of README.md)
-
-
 ## License
 
 Totaly-me-and-not-chat-GPT-project is released under the [GPLv3 License](https://www.gnu.org/licenses/gpl-3.0.html).
