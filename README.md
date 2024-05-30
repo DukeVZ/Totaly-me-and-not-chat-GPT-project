@@ -1,2 +1,6 @@
-My School project.
-link to release pgage: https://github.com/DukeVZ/Totaly-me-and-not-chat-GPT-project/releases/tag/school 
+A cool School project.
+link to the download page: https://github.com/DukeVZ/Totaly-me-and-not-chat-GPT-project/releases/tag/school 
+
+contributors:
+https://github.com/DukeVZ
+https://github.com/DeanLemans
