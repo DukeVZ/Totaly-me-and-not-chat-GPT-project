@@ -1,6 +1,8 @@
-A cool School project.
+# A cool school project.
+
 link to the download page: https://github.com/DukeVZ/Totaly-me-and-not-chat-GPT-project/releases/tag/school 
 
-contributors:
+## contributors:
+https://github.com/Sem-Del
 https://github.com/DukeVZ
 https://github.com/DeanLemans (did grammer fix)
