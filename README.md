@@ -12,7 +12,7 @@
 
 - [luuk600](https://github.com/luuk600) (Fixed the fixed grammar problems)
 
-- [DeanLemans](https://github.com/DeanLemans) (Fixed some grammar problems)
+- [cheese](https://github.com/DeanLemans) (Fixed some grammar problems)
 
 ## License
 
