@@ -1,11 +1,11 @@
 
 # ***Cool*** ChatGPT Assignment
 
-## [Download page](https://github.com/DukeVZ/Totaly-me-and-not-chat-GPT-project/releases/tag/school)
+## [Download Page](https://github.com/DukeVZ/Totaly-me-and-not-chat-GPT-project/releases/tag/school)
 
 ## Contributors:
 ### Main contributor
-[DukeVZ](https://github.com/DukeVZ) (Made the game)
+[DukeVZ](https://pornhub.com) (Made the game)
 
 ### Secondary contributor:
 - [Sem-Del](https://github.com/Sem-Del) (did the layout of README.md)
