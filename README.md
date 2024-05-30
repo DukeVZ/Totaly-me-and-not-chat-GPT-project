@@ -1,4 +1,5 @@
-# ChatGPT Assignment
+
+# Cool ChatGPT Assignment
 ## Download page
 - https://github.com/DukeVZ/Totaly-me-and-not-chat-GPT-project/releases/tag/school 
 
