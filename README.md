@@ -7,7 +7,7 @@
 ### Main contributor
 - https://github.com/DukeVZ
 
-### Side contributor
+### Secondary contributor
 - https://github.com/Sem-Del
 
 - https://github.com/DeanLemans
