@@ -1,15 +1,15 @@
 
-# Cool ChatGPT Assignment
+# ***Cool*** ChatGPT Assignment
 ## Download page:
-- https://github.com/DukeVZ/Totaly-me-and-not-chat-GPT-project/releases/tag/school 
+[Download page](https://github.com/DukeVZ/Totaly-me-and-not-chat-GPT-project/releases/tag/school)
 
 ## Contributors:
 ### Main contributor
-- https://github.com/DukeVZ
+[Duke](https://github.com/DukeVZ)
 
-### Secondary contributor
-- https://github.com/DeanLemans (Fixed some grammar problems)
+### Secondary contributor:
+- [Sem](https://github.com/Sem-Del) (did the layout of README.md)
 
-- https://github.com/luuk600 (Fixed the fixed grammar problems)
+- [Dean](https://github.com/DeanLemans) (Fixed some grammar problems)
 
-- https://github.com/Sem-Del (Fixed some grammar problems)
+- [Nick](https://github.com/luuk600) (Fixed the fixed grammar problems)
