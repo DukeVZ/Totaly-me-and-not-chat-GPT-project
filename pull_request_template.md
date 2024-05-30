@@ -1,2 +1,2 @@
-And remember; profesionnals have standards!
-be profesional about the code!
+And remember; we are profesionals!
+So write profesional code!
