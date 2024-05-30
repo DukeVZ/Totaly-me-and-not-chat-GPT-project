@@ -5,7 +5,7 @@
 
 ## Contributors:
 ### Main contributor
-[DukeVZ](https://github.com/DukeVZ) (Made the game)
+[DukeVZ](https://github.com/DukeVZ) (Wrote somthing and GPT Made the game)
 
 ### Secondary contributor:
 - [Sem-Del](https://github.com/Sem-Del) (did the layout of README.md)
