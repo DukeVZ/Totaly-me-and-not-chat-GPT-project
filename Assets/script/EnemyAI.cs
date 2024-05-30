@@ -20,6 +20,9 @@ public class EnemyAI : MonoBehaviour
         agent = GetComponent<NavMeshAgent>();
         agent.stoppingDistance = stoppingDistance;
         roamTimer = roamDelay;
+
+        // Add a debug message to confirm the script is starting correctly
+        Debug.Log("Enemy AI Initialized.");
     }
 
     void Update()
@@ -56,6 +59,11 @@ public class EnemyAI : MonoBehaviour
         // Implement the logic for when the enemy tags the player
         Debug.Log("Player Tagged!");
         // Add additional functionality such as reducing the player's health or triggering a game over
+        PlayerDeath playerDeath = player.GetComponent<PlayerDeath>();
+        if (playerDeath != null)
+        {
+            playerDeath.Die();
+        }
     }
 
     void OnTriggerStay(Collider other)
@@ -105,4 +113,3 @@ public class EnemyAI : MonoBehaviour
         return hit.position;
     }
 }
-
