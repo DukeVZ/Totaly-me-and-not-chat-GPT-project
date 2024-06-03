@@ -1,14 +1,14 @@
 
-# ***Cool*** ChatGPT Assignment
+# ***Not a Cool*** ChatGPT Assignment
 
 ## [Download page](https://github.com/DukeVZ/Totaly-me-and-not-chat-GPT-project/releases/tag/school)
 
 ## Contributors:
 ### Main contributor
-[DukeVZ](https://github.com/DukeVZ) (Made the game)
+[Sem-Del](https://github.com/Sem-Del) (Made the game)
 
 ### Secondary contributor:
-- [Sem-Del](https://github.com/Sem-Del) (Did the layout of README.md)
+- [DukeVZ](https://github.com/DukeVZ) (did nothing)
 
 - [luuk600](https://github.com/luuk600) (Fixed the fixed grammar problems)
 
