@@ -6,9 +6,9 @@ Currently only the school version of the maze game is reported.(as it is the onl
 
 | Version | Supported          |
 | ------- | ------------------ |
-| School   | :white_check_mark: |
+| School   | :white_check_mark: :white_check_mark: :white_check_mark: |
 
-### Reporting a Vulnerability
+### Reporting Bugs and Vulnerabilities
 
-Please report vulnerabilities to the issue page
+open a pull request and please specify what it is.(bug/vulnarbility)
 
