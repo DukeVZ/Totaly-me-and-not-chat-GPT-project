@@ -7,13 +7,7 @@ public class GameTimer : MonoBehaviour
 {
     public TMP_Text timerText; // Reference to the timer text UI element
     private float elapsedTime;
-    private bool isRunning;
-
-    void Start()
-    {
-        elapsedTime = 0f;
-        isRunning = true;
-    }
+    private bool isRunning = true;
 
     void Update()
     {

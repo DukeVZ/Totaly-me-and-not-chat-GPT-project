@@ -8,10 +8,12 @@ public class PlayerDeath : MonoBehaviour
 {
     public GameObject deathScreenCanvas; // Reference to the death screen canvas
     private GameTimer gameTimer;
+    private StartMenu startMenu;
 
     void Start()
     {
         gameTimer = FindObjectOfType<GameTimer>();
+        startMenu = FindObjectOfType<StartMenu>();
     }
 
     public void Die()
@@ -28,6 +30,9 @@ public class PlayerDeath : MonoBehaviour
         // Unlock the cursor
         Cursor.lockState = CursorLockMode.None;
         Cursor.visible = true;
+
+        // Return to start menu
+        startMenu.ReturnToStartMenu();
     }
 
     public void RestartGame()
@@ -36,4 +41,3 @@ public class PlayerDeath : MonoBehaviour
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 }
-
