@@ -7,11 +7,12 @@ public class StartMenu : MonoBehaviour
 {
     public void StartGame()
     {
-        SceneManager.LoadScene("GameScene"); // Replace with your game scene name
+        SceneManager.LoadScene(1);
+
     }
 
     public void ReturnToStartMenu()
     {
-        SceneManager.LoadScene("StartMenuScene"); // Replace with your start menu scene name
+        SceneManager.LoadScene(0);
     }
 }

@@ -30,9 +30,6 @@ public class PlayerDeath : MonoBehaviour
         // Unlock the cursor
         Cursor.lockState = CursorLockMode.None;
         Cursor.visible = true;
-
-        // Return to start menu
-        startMenu.ReturnToStartMenu();
     }
 
     public void RestartGame()
